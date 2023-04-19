@@ -349,6 +349,7 @@
 "Assets/Scripts/Animal.cs"
 "Assets/Scripts/AnimalCow.cs"
 "Assets/Scripts/AnimalHorse.cs"
+"Assets/Scripts/MainMenu.cs"
 "Assets/Scripts/UserControl.cs"
 -langversion:9.0
 
